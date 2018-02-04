@@ -1,0 +1,19 @@
+0000000000000000000000000000000000000000 68ceae655e7dd679ea5923758c9061835465b7ab lecherbonnier <leo.lecherbonnier@epitech.eu> 1494672534 +0200	clone: from git@git.epitech.eu:/leo.lecherbonnier@epitech.eu/dante
+68ceae655e7dd679ea5923758c9061835465b7ab 82563b15da2772cd6ed5284325ffbba76fe8fa75 lecherbonnier <leo.lecherbonnier@epitech.eu> 1494672860 +0200	commit: setiings
+82563b15da2772cd6ed5284325ffbba76fe8fa75 726e1dca679efcfe2d25018b6f5bad484ddb3e7b lecherbonnier <leo.lecherbonnier@epitech.eu> 1494675658 +0200	commit: imperfect
+726e1dca679efcfe2d25018b6f5bad484ddb3e7b 15ab828183687cc9d87560435d6441285387c030 lecherbonnier <leo.lecherbonnier@epitech.eu> 1494682108 +0200	commit: ok imperfect
+15ab828183687cc9d87560435d6441285387c030 30acc609bb2d9b86bc48c8e4d10b04d6a38beab3 lecherbonnier <leo.lecherbonnier@epitech.eu> 1494683254 +0200	commit: ok
+30acc609bb2d9b86bc48c8e4d10b04d6a38beab3 caa6a08adc685de16da33fd02e75daed8c4e49fd lecherbonnier <leo.lecherbonnier@epitech.eu> 1494683772 +0200	commit: change astar
+caa6a08adc685de16da33fd02e75daed8c4e49fd 5f07fcc120801ac3e65b155b8256d80a608d7d88 lecherbonnier <leo.lecherbonnier@epitech.eu> 1494686761 +0200	commit: pas de faute de norme, repo clear pour la moulinette de ce soir
+5f07fcc120801ac3e65b155b8256d80a608d7d88 aa4880231f9a6e798123136c255167231dff3f78 lecherbonnier <leo.lecherbonnier@epitech.eu> 1494687312 +0200	commit: reglage write dans le generateur
+aa4880231f9a6e798123136c255167231dff3f78 0c1e1fa09a3639de5e41bac27dacf073fd13b539 lecherbonnier <leo.lecherbonnier@epitech.eu> 1494689460 +0200	commit: 1,76 astar sur 10000 10000
+0c1e1fa09a3639de5e41bac27dacf073fd13b539 7e3c4cb4c47a0803f82cde40243cb109b6f6a592 lecherbonnier <leo.lecherbonnier@epitech.eu> 1494689561 +0200	commit: sans tmp
+7e3c4cb4c47a0803f82cde40243cb109b6f6a592 cddf81c09a2491dc970c89cf46fa3570da9991e5 lecherbonnier <leo.lecherbonnier@epitech.eu> 1494689867 +0200	commit: ok
+cddf81c09a2491dc970c89cf46fa3570da9991e5 cec46e1037a5af4e639c68000bc4118b06e8809f lecherbonnier <leo.lecherbonnier@epitech.eu> 1494691013 +0200	commit: opti 1,40
+cec46e1037a5af4e639c68000bc4118b06e8809f 8418e75a8601a6b6f53b0343284dbd55feac212e lecherbonnier <leo.lecherbonnier@epitech.eu> 1494691097 +0200	commit: ok, sans tmp
+8418e75a8601a6b6f53b0343284dbd55feac212e 4cbb386637f1ecf5a44547e0f922a2b56212f85b lecherbonnier <leo.lecherbonnier@epitech.eu> 1494695371 +0200	commit: ca arrive
+4cbb386637f1ecf5a44547e0f922a2b56212f85b 913ff8470f834e07767431e91962058aa0b5edd9 lecherbonnier <leo.lecherbonnier@epitech.eu> 1494696115 +0200	commit: ok
+913ff8470f834e07767431e91962058aa0b5edd9 f3d5d82d1d21c510bc2536dfd7557cafb020cf1d lecherbonnier <leo.lecherbonnier@epitech.eu> 1494696188 +0200	commit: clean
+f3d5d82d1d21c510bc2536dfd7557cafb020cf1d e687b05031f83855f6a64a0c8d320b1a6d07768c lecherbonnier <leo.lecherbonnier@epitech.eu> 1494697599 +0200	commit: repo pres pour 23h42
+e687b05031f83855f6a64a0c8d320b1a6d07768c 46a800c48b189a340d29f1075d267604144f4e63 lecherbonnier <leo.lecherbonnier@epitech.eu> 1494698672 +0200	commit: -O3
+46a800c48b189a340d29f1075d267604144f4e63 8eeefe9cb893be186e5655b6aa4d0897ee49c057 lecherbonnier <leo.lecherbonnier@epitech.eu> 1494698744 +0200	commit: sans tmp

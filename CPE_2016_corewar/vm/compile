@@ -1,0 +1,17 @@
+rm -f main.o utils/fc_base.o utils/fc_base2.o utils/int_to_str.o init_champ.o init_arena.o print_help.o game.o get_option.o convert_indian.o execution.o init_else.o op.o take.o
+rm -f vm
+cc -Wall -Werror -pedantic -L./lib -lmy -I./include -lgnl -ansi   -c -o main.o main.c
+cc -Wall -Werror -pedantic -L./lib -lmy -I./include -lgnl -ansi   -c -o utils/fc_base.o utils/fc_base.c
+cc -Wall -Werror -pedantic -L./lib -lmy -I./include -lgnl -ansi   -c -o utils/fc_base2.o utils/fc_base2.c
+cc -Wall -Werror -pedantic -L./lib -lmy -I./include -lgnl -ansi   -c -o utils/int_to_str.o utils/int_to_str.c
+cc -Wall -Werror -pedantic -L./lib -lmy -I./include -lgnl -ansi   -c -o init_champ.o init_champ.c
+cc -Wall -Werror -pedantic -L./lib -lmy -I./include -lgnl -ansi   -c -o init_arena.o init_arena.c
+cc -Wall -Werror -pedantic -L./lib -lmy -I./include -lgnl -ansi   -c -o print_help.o print_help.c
+cc -Wall -Werror -pedantic -L./lib -lmy -I./include -lgnl -ansi   -c -o game.o game.c
+cc -Wall -Werror -pedantic -L./lib -lmy -I./include -lgnl -ansi   -c -o get_option.o get_option.c
+cc -Wall -Werror -pedantic -L./lib -lmy -I./include -lgnl -ansi   -c -o convert_indian.o convert_indian.c
+cc -Wall -Werror -pedantic -L./lib -lmy -I./include -lgnl -ansi   -c -o execution.o execution.c
+cc -Wall -Werror -pedantic -L./lib -lmy -I./include -lgnl -ansi   -c -o init_else.o init_else.c
+cc -Wall -Werror -pedantic -L./lib -lmy -I./include -lgnl -ansi   -c -o op.o op.c
+cc -Wall -Werror -pedantic -L./lib -lmy -I./include -lgnl -ansi   -c -o take.o take.c
+gcc main.o utils/fc_base.o utils/fc_base2.o utils/int_to_str.o init_champ.o init_arena.o print_help.o game.o get_option.o convert_indian.o execution.o init_else.o op.o take.o -o vm -Wall -Werror -pedantic -L./lib -lmy -I./include -lgnl -ansi

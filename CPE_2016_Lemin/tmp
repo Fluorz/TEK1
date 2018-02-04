@@ -1,0 +1,1 @@
+rm -f src/main.o src/epure_tab.o src/gestion_erreur.o src/get_file.o src/create_room.o

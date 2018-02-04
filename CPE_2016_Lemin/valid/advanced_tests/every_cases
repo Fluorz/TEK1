@@ -1,0 +1,18 @@
+3#premier commentaire!
+2   5    0   #yolo
+##start#essai de commentaire sur une commande sans espace separateur
+ABC-D  1    2      ## un commentaire avec une double balise
+##end # essai de commentaire sur une commande avec une espace avant
+END- 9 2
+#un autre commentaire
+3 5 4
+#     encore un      commentaire
+ABC-D-2
+ABC-D-3
+##UneCommandeInconnue
+###comportement inconnu
+2-END-
+3-END-
+#le prochain commentaire est vide
+2-3#
+#dernier commentaire

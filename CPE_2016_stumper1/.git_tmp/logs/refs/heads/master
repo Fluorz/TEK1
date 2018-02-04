@@ -1,0 +1,4 @@
+0000000000000000000000000000000000000000 f2a74cdce60352f2f316483519c08f3c9292c04b lecherbonnier <leo.lecherbonnier@epitech.eu> 1492758450 +0200	commit (initial): init
+f2a74cdce60352f2f316483519c08f3c9292c04b 281d6dbc88861db97dc714c175ca00c31bc37116 lecherbonnier <leo.lecherbonnier@epitech.eu> 1492758633 +0200	commit: lib.c
+281d6dbc88861db97dc714c175ca00c31bc37116 fae978f154bf2be650339ea34381c4eed9a8911d lecherbonnier <leo.lecherbonnier@epitech.eu> 1492758655 +0200	commit: my.h
+fae978f154bf2be650339ea34381c4eed9a8911d 122df10f539fd4ca36b9bfca085054c6d0388c5e lecherbonnier <leo.lecherbonnier@epitech.eu> 1492758845 +0200	commit: error.c

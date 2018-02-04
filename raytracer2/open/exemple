@@ -1,0 +1,10 @@
+type:s	//sphere
+size:20
+color:50;23;34
+pos:1;2;3
+rota:1;2;3
+type:V	//sphere
+size:20
+color:50;23;34
+pos:1;2;3
+rota:1;2;3

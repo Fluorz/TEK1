@@ -1,0 +1,14 @@
+0000000000000000000000000000000000000000 d23aa6173635312df3455962861153a753f0ee4a lecherbonnier <leo.lecherbonnier@epitech.eu> 1490179508 +0100	clone: from git@git.epitech.eu:/leo.lecherbonnier@epitech.eu/PSU_2016_minishell2
+d23aa6173635312df3455962861153a753f0ee4a a63f4bb58a28a97146b6eba666593884403b13fc lecherbonnier <leo.lecherbonnier@epitech.eu> 1490180006 +0100	commit: remise
+a63f4bb58a28a97146b6eba666593884403b13fc f6198923f738e5ce9a10b30c60d8673829a18486 lecherbonnier <leo.lecherbonnier@epitech.eu> 1490200257 +0100	commit: reglage ctrl+d
+f6198923f738e5ce9a10b30c60d8673829a18486 b44e749311c4e06e59e251054435acd56f271965 lecherbonnier <leo.lecherbonnier@epitech.eu> 1490279525 +0100	commit: command not fund
+b44e749311c4e06e59e251054435acd56f271965 7a794929700bfcf2c65096ccfb03ece021f825d1 lecherbonnier <leo.lecherbonnier@epitech.eu> 1490281239 +0100	commit: regalge code de retour
+7a794929700bfcf2c65096ccfb03ece021f825d1 8a8e93ce90d84dacd8a227ff1160cd9bf9bdcfaf lecherbonnier <leo.lecherbonnier@epitech.eu> 1490281530 +0100	commit: un espace en moins
+8a8e93ce90d84dacd8a227ff1160cd9bf9bdcfaf 675503c419c10f9c771f8d0c7f6d0ba71538bbe5 lecherbonnier <leo.lecherbonnier@epitech.eu> 1490281719 +0100	commit: ok
+675503c419c10f9c771f8d0c7f6d0ba71538bbe5 93164d7af6588c0326170b28c59b92ce95a3533a lecherbonnier <leo.lecherbonnier@epitech.eu> 1490282060 +0100	commit: stdout
+93164d7af6588c0326170b28c59b92ce95a3533a 9b2e6f8664233f1d746db86fe0a7868e80653941 lecherbonnier <leo.lecherbonnier@epitech.eu> 1490604322 +0200	commit: Return Value and cd error
+9b2e6f8664233f1d746db86fe0a7868e80653941 51419244df4e54075d6540b61ac7ebcd131d6590 lecherbonnier <leo.lecherbonnier@epitech.eu> 1491410290 +0200	commit: reglage setenv unsetenv
+51419244df4e54075d6540b61ac7ebcd131d6590 26c7da9a55b5a93bb2cd723b2cd0e2a301080ba6 lecherbonnier <leo.lecherbonnier@epitech.eu> 1491492653 +0200	commit: minishell1 ok
+26c7da9a55b5a93bb2cd723b2cd0e2a301080ba6 767f32065812d76726c710dcd709fb6e17eb8ca9 lecherbonnier <leo.lecherbonnier@epitech.eu> 1491496771 +0200	commit: 32 %
+767f32065812d76726c710dcd709fb6e17eb8ca9 e2a2db0e599026847b6f6a3385fc012f2c505f91 lecherbonnier <leo.lecherbonnier@epitech.eu> 1491899752 +0200	commit: ok
+e2a2db0e599026847b6f6a3385fc012f2c505f91 d2f4e7890f9c6738796ad05157f21ef19614df85 lecherbonnier <leo.lecherbonnier@epitech.eu> 1504151941 +0700	commit: push minishell2

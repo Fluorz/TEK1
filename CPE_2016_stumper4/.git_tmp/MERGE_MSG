@@ -1,0 +1,5 @@
+Merge branch 'master' of git.epitech.eu:/leo.lecherbonnier@epitech.eu/CPE_2016_stumper4
+
+# Conflicts:
+#	include/my.h
+#	src/utils/my_get_next_line.c
